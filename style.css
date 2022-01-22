@@ -59,16 +59,16 @@ header h1{
 
 section{
     font-family: var(--fonte3);
-    padding-top: 3vh;
-    padding-bottom: 3vh;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
     padding-left: 30px;
-    line-height: 2em;
+    line-height: 3em;
 }
 
 
 
 section p {
-    font-size: 2vh;
+    font-size: 3.5vh;
 }
 
 @media(max-width: 700px) {
